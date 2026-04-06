@@ -59,7 +59,6 @@ GLEGram/          — GLEGram-exclusive modules
 ├── ChatPassword/     Per-chat password
 ├── VoiceMorpher/     Voice effects
 ├── GLESettingsUI/    Settings controllers
-└── TorEmbedded/      Tor stub
 
 Swiftgram/        — Shared Swiftgram modules (50+)
 submodules/       — Telegram iOS base (patched with // MARK: - GLEGram)

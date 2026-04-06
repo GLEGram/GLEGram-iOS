@@ -46,7 +46,6 @@ GLEGram — a fork of Swiftgram (which is a fork of Telegram iOS). Base version:
    - `ChatPassword` — Per-chat password protection
    - `VoiceMorpher` — Voice preset engine
    - `GLESettingsUI` — 18 controllers (paywall, plugins, fonts, fake profile, etc.)
-   - `TorEmbedded` — Tor stub
 
 ### Key modified Telegram files
 

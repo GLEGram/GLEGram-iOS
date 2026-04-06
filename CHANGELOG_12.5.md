@@ -209,6 +209,5 @@ GLEGram/
 ├── SGFakeLocation/      (location spoofing)
 ├── SGLocalPremium/      (premium emulation)
 ├── SGSupporters/        (badges, subscriptions)
-├── TorEmbedded/         (Tor stub)
 └── VoiceMorpher/        (voice effects)
 ```
